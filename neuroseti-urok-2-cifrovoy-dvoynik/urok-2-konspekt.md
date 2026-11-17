@@ -2,7 +2,7 @@
 
 - **Видео:** https://kinescope.io/sMdVFBN7KWG5LhJGAq5uLh (27 мин)
 - **Курс:** 4 урока о нейросетях для личной жизни и работы. Это урок 2: «Персональные ответы: создаём Цифрового Двойника».
-- **Полная расшифровка:** [transcript.md](transcript.md)
+- **Полная расшифровка:** [urok-2-transcript.md](urok-2-transcript.md)
 
 ---
 
