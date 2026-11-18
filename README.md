@@ -25,7 +25,8 @@
 │   └── urok-2-dz.pdf
 └── neuroseti-urok-3-vebinar-neyropasport/ # Урок 3. Вебинар: нейропаспорт и ИИ-помощники
     ├── urok-3-transcript.md
-    └── urok-3-konspekt.md                 # с разделом «Что нового по сравнению с уроками 1–2»
+    ├── urok-3-konspekt.md                 # с разделом «Что нового по сравнению с уроками 1–2»
+    └── urok-3-konspekt.pdf                # свёрстанный конспект с кадрами из записи эфира
 ```
 
 ## Какие файлы есть у урока
@@ -58,7 +59,7 @@
 - Видео: https://drive.google.com/file/d/1T8Ny8wILOywVPNr9Isn4AadzpAcqtDkQ/view (2:59:47, прямой эфир 18.11.2026; ведущий — Алексей Дементьев) · [папка с записью](https://drive.google.com/drive/folders/1Jhs2o2Qhhf7et2ZIO_1Z0du9LJNPM33a)
 - О чём: как устроен и пополняется нейропаспорт (на примере Шерлока Холмса), «совет директоров благополучия», ИИ-стилист, контент и картинки (Qwen → Krea), продвижение и продажи с ИИ, пошаговая нейрофотосессия в Krea, тренды Сбера до 2035 года. Около трети эфира — продажа сообщества автора.
 - В конспекте есть отдельный раздел **«Что нового по сравнению с уроками 1–2»**.
-- [Конспект](neuroseti-urok-3-vebinar-neyropasport/urok-3-konspekt.md) · [Расшифровка](neuroseti-urok-3-vebinar-neyropasport/urok-3-transcript.md)
+- [Конспект](neuroseti-urok-3-vebinar-neyropasport/urok-3-konspekt.md) · [PDF](neuroseti-urok-3-vebinar-neyropasport/urok-3-konspekt.pdf) · [Расшифровка](neuroseti-urok-3-vebinar-neyropasport/urok-3-transcript.md)
 
 ## Как добавить новый урок
 
