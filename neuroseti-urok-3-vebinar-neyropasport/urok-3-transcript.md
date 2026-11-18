@@ -1,6 +1,6 @@
 # Урок 3 (вебинар). Расшифровка
 
-- **Видео:** [папка на Google Диске](https://drive.google.com/drive/folders/1Jhs2o2Qhhf7et2ZIO_1Z0du9LJNPM33a) (2:59:47, запись эфира 18.11.2026)
+- **Видео:** https://drive.google.com/file/d/1T8Ny8wILOywVPNr9Isn4AadzpAcqtDkQ/view (2:59:47, запись эфира 18.11.2026; [папка на Google Диске](https://drive.google.com/drive/folders/1Jhs2o2Qhhf7et2ZIO_1Z0du9LJNPM33a))
 - **Спикер:** Дмитрий Ятленко. **Ведущий:** Алексей Дементьев
 - **Конспект:** [urok-3-konspekt.md](urok-3-konspekt.md)
 

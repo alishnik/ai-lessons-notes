@@ -55,7 +55,7 @@
 - [Конспект](neuroseti-urok-2-cifrovoy-dvoynik/urok-2-konspekt.md) · [Расшифровка](neuroseti-urok-2-cifrovoy-dvoynik/urok-2-transcript.md) · [ДЗ](neuroseti-urok-2-cifrovoy-dvoynik/urok-2-dz.md)
 
 ### Урок 3. Вебинар: нейропаспорт и ИИ-помощники «на 360 градусов»
-- Видео: [запись вебинара на Google Диске](https://drive.google.com/drive/folders/1Jhs2o2Qhhf7et2ZIO_1Z0du9LJNPM33a) (прямой эфир 18.11.2026, 3 ч; ведущий — Алексей Дементьев)
+- Видео: https://drive.google.com/file/d/1T8Ny8wILOywVPNr9Isn4AadzpAcqtDkQ/view (2:59:47, прямой эфир 18.11.2026; ведущий — Алексей Дементьев) · [папка с записью](https://drive.google.com/drive/folders/1Jhs2o2Qhhf7et2ZIO_1Z0du9LJNPM33a)
 - О чём: как устроен и пополняется нейропаспорт (на примере Шерлока Холмса), «совет директоров благополучия», ИИ-стилист, контент и картинки (Qwen → Krea), продвижение и продажи с ИИ, пошаговая нейрофотосессия в Krea, тренды Сбера до 2035 года. Около трети эфира — продажа сообщества автора.
 - В конспекте есть отдельный раздел **«Что нового по сравнению с уроками 1–2»**.
 - [Конспект](neuroseti-urok-3-vebinar-neyropasport/urok-3-konspekt.md) · [Расшифровка](neuroseti-urok-3-vebinar-neyropasport/urok-3-transcript.md)
