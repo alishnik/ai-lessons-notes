@@ -5,7 +5,7 @@ PDF собирается из HTML-вёрстки (`urok-N-konspekt.pdf.html` в
 
 ```bash
 cp tools/pdf/style.css <папка-сборки>/        # HTML ссылается на style.css и kadry/*.jpg
-node tools/pdf/render.js "$PWD/<папка-сборки>/konspekt.html" "$PWD/raw.pdf"
+node tools/pdf/render.js "$PWD/<папка-сборки>/konspekt.html" "$PWD/raw.pdf" "Урок N · Название для колонтитула"
 python3 -I tools/pdf/fix_outline.py raw.pdf <папка-урока>/urok-N-konspekt.pdf "Урок N. Название" <папка-сборки>/konspekt.html
 ```
 
